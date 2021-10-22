@@ -1,0 +1,41 @@
+[
+    {
+        "id_site": 11,
+        "code_site": 176,
+        "libelle": "Ouarzazate",
+        "id_responsable": 1,
+        "email": "m.ouarzazate@matu.ma",
+        "remarque": "scanner est est mauvaise etat",
+        "decharge": null,
+        "zone": "sud",
+        "image": "/img/logo2.jpg",
+        "nb_materiel": 2 ,
+        "piece_decharge": null
+    },
+    {
+        "id_site": 12,
+        "code_site": 144,
+        "libelle": "Casa Zerktouni",
+        "id_responsable": 1,
+        "email": "m.casazerktouni@matu.ma",
+        "remarque": null,
+        "decharge": null,
+        "image": "/img/logo2.jpg",
+        "zone": "ost",
+        "nb_materiel": 4 ,
+        "piece_decharge": null
+    },
+    {
+        "id_site": 17,
+        "code_site": 140,
+        "libelle": "Casa Ain Chock",
+        "id_responsable": 1,
+        "zone": "ost",
+        "image": "/img/logo2.jpg",
+        "email": "m.casaainchock@matu.ma",
+        "remarque": "hhhh",
+        "decharge": null,
+        "nb_materiel": 6 ,
+        "piece_decharge": null
+    }
+]

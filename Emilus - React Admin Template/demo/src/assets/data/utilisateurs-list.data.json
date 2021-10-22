@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "nom_complet": "Malaoui Taoufik",
+    "email": "t.malaoui@matu.ma",
+    "img": "/img/avatars/thumb-1.jpg",
+    "role": "Admin",
+    "status": "active",
+    "site": "siége",
+    "groupe": "dsi",
+    "sous_groupe": "si"
+  },
+  {
+    "id": "2",
+    "nom_complet": "Yassin Kribich",
+    "email": "y.kribich@matu.ma",
+    "img": "/img/avatars/thumb-1.jpg",
+    "role": "Admin",
+    "status": "active",
+    "site": "ouarzazate",
+    "groupe": "Bureau",
+    "sous_groupe": "gestionnaire"
+  },
+  {
+    "id": "3",
+    "nom_complet": "Rais Amin",
+    "email": "a.rais@matu.ma",
+    "img": "/img/avatars/thumb-1.jpg",
+    "role": "Admin",
+    "status": "active",
+    "site": "siége",
+    "groupe": "Finance",
+    "sous_groupe": "DAF"
+  }
+  
+]
